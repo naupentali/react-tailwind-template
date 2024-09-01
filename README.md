@@ -4,7 +4,7 @@ This is a template that makes initializing a vite react+typescript project with 
 
 ## Usage
 
-`git clone && cd react-tailwind-template && rm -rf .git && npm install`
+`git clone https://github.com/naupentali/react-tailwind-template.git && cd react-tailwind-template && rm -rf .git && npm install`
 
 This will be equivalent to running the following commands:
 
@@ -19,8 +19,12 @@ npm i tailwindcss autoprefixer postcss
 npx tailwindcss init -p
 ```
 
-Add index.html and src to tailwind.config.js
-removing vite branding from index.html
-cleaning up src folder and adding tailwindcss directives to App.css
+Adding index.html and src to tailwind.config.js
+
+Removing vite branding from index.html
+
+Cleaning up src folder
+
+Adding tailwindcss directives to main.css
 
 
