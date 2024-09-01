@@ -4,7 +4,9 @@ This is a template that makes initializing a vite react+typescript project with 
 
 ## Usage
 
-`git clone https://github.com/naupentali/react-tailwind-template.git && cd react-tailwind-template && rm -rf .git && npm install`
+```
+git clone https://github.com/naupentali/react-tailwind-template.git && cd react-tailwind-template && rm -rf .git && npm install
+```
 
 This will be equivalent to running the following commands:
 
